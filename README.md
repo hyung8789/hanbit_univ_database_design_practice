@@ -1,6 +1,7 @@
 # 한빛대학 학사 관리 데이터베이스 설계 및 구현 연습
 
-< 요구사항 명세서 >
+<h3><strong>< 요구사항 명세서 ></strong></h3><br>
+
 
 1) 교수(Professor)는 아이디(ssn), 이름(name), 나이(age), 직위(rank), 연구 분야(speciality)를 가진다.
 2) 학과(Department)에는 학과번호(dno), 학과이름(dname), 학과사무실(office)이 있다.
